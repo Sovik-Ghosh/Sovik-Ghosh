@@ -21,7 +21,7 @@ I specialize in developing cutting-edge AI solutions, leveraging my expertise to
 [![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://jira.atlassian.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Pytorch](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APyTorch_logo_black.svg&psig=AOvVaw1D3CKlVsYIMjAFK0ECSPG9&ust=1712457727664000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMi56rHIrIUDFQAAAAAdAAAAABAE)](https://pytorch.org/)
+[![Pytorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg)](https://pytorch.org/)
 [![Ubuntu](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg)](https://www.tensorflow.org/)
 
 
