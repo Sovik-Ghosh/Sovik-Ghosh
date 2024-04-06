@@ -1,16 +1,34 @@
-### Hi there 👋
+# 🤖  Hi, I'm Sovik - AI Software Engineer
 
-<!--
-**Sovik-Ghosh/Sovik-Ghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in developing cutting-edge AI solutions, leveraging my expertise to design and implement intelligent software systems that solve complex problems and drive innovation in various domains.
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages Python/Java**
+* **Embedded C/C++**
+* **Ecosystems Pytorch/Tensorflow**
+* **Image Processing OpenCV**
+* **ROS (Robot Operating System)**
+
+## 💻 Languages & Tools
+
+[![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
+[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
+[![ROS Badge](https://img.shields.io/badge/ROS-EE43A7?style=for-the-badge&logo=Robot%20Operating%20System&logoColor=white)]([https://www.ros.org/])
+[![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://jira.atlassian.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Pytorch](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APyTorch_logo_black.svg&psig=AOvVaw1D3CKlVsYIMjAFK0ECSPG9&ust=1712457727664000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMi56rHIrIUDFQAAAAAdAAAAABAE)](https://pytorch.org/)
+[![Ubuntu](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg)](https://www.tensorflow.org/)
+
+
+## 📫 How to Reach Me
+
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sovik-ghosh-5b2236136)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsovik.official@gmail.com)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sovik-Ghosh&theme=blue-green)]([https://github-readme-stats.vercel.app/api?username=Sovik-Ghosh) \
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sovik-Ghosh&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
