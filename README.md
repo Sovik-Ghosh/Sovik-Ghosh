@@ -1,47 +1,49 @@
-# 🤖 Hi, I'm Sovik - AI & Robotics Engineer
+# 🤖 Hi, I'm Sovik - Machine Learning Engineer
 
-I specialize in developing cutting-edge AI and robotics solutions, with expertise in:
-- 🧠 Machine Learning & Computer Vision
-- 🤖 Robotics & 3D Perception
-- 💻 Full-Stack Development
+I'm a passionate AI & Robotics Engineer specializing in:
+- 🤖 Robotics & Computer Vision
+- 🧠 Machine Learning & Deep Learning
+- 💻 Software Development
 - 📊 MLOps & Data Engineering
 
 ## 🎓 Education
 - MSc in Robotics and Artificial Intelligence @ University of Glasgow (2023-2024)
 - BTech in Computer Science Engineering @ MAKAUT (2019-2023)
 
-## 🚀 Key Projects & Experience
+## 💻 Technical Expertise
 
-### POMO Robotics | ML Engineer
-- 🏗️ Developed Structure-from-Motion pipeline with SuperGlue & COLMAP
-- 🎯 Achieved 85% depth accuracy at 30 FPS with multi-modal fusion
-- 🔍 Optimized 3D scene understanding achieving 90% AP for vehicles
-- 📊 Processed 250GB+ sensor data with 92% accuracy
-
-### SelfGNNplus | Advanced Recommendation System
-- 📈 5.77% improvement over SOTA in NDCG ranking
-- 🎯 73.71% improvement in Hit Rate with self-attention
-- 🔬 11.26% accuracy gain through self-supervised learning
-
-## 💻 Tech Stack
-
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frameworks & Libraries
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### Robotics & Computer Vision
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PCL](https://img.shields.io/badge/PCL-3DDC84?style=for-the-badge&logo=pcl&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- **3D Vision**: Structure from Motion, Multi-view Geometry, SLAM, Visual Odometry
+- **Perception**: Object Detection, Semantic Segmentation, Depth Estimation
+- **Robotics**: Sensor Fusion, Motion Planning, Control Systems
+- **Hardware**: LiDAR, IMU, Camera Systems, NVIDIA Platforms
+
+### Machine Learning & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+- **Deep Learning**: CNNs, Transformers, GNNs, Self-supervised Learning
+- **Computer Vision**: YOLO, Mask R-CNN, PointNet++, SuperGlue
+- **MLOps**: Model Monitoring, Experiment Tracking, Pipeline Optimization
+- **Optimization**: Model Quantization, TensorRT, Distributed Training
+
+### Development & Tools
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+- **Languages**: Python, C++, CUDA C++, SQL
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD
+- **Data Engineering**: Apache Airflow, ETL Pipelines, Data Lakes
+- **Development**: Git, FastAPI, Flask, Jupyter
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sovik-Ghosh&theme=blue-green)
