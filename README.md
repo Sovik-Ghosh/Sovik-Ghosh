@@ -30,7 +30,7 @@ I'm a passionate AI & Robotics Engineer specializing in:
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 - **Deep Learning**: CNNs, Transformers, GNNs, Self-supervised Learning
-- **Computer Vision**: YOLO, Mask R-CNN, PointNet++, SuperGlue
+- **Computer Vision**: YOLO, Mask R-CNN, U-Net, PointNet++, SuperGlue, PV-RCNN, PointPillars
 - **MLOps**: Model Monitoring, Experiment Tracking, Pipeline Optimization
 - **Optimization**: Model Quantization, TensorRT, Distributed Training
 
