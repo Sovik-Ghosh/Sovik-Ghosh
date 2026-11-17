@@ -1,0 +1,36 @@
+name: Update Now section and stats card
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  now:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python tools/update_now.py README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Needs a read-only PAT that can see private repos (secret STATS_TOKEN).
+      # Without it the step is skipped and the committed card is kept.
+      - run: |
+          if [ -z "$STATS_TOKEN" ]; then echo "STATS_TOKEN not set, keeping stats card"; exit 0; fi
+          python tools/make_stats.py
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+      - name: Commit if changed
+        run: |
+          git add -A assets README.md
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update Now section and stats"
+          git push

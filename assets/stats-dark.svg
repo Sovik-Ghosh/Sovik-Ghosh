@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="GitHub stats for Sovik-Ghosh">
+<defs>
+<linearGradient id="fb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f17"/><stop offset="0.55" stop-color="#101826"/><stop offset="1" stop-color="#0b1220"/></linearGradient>
+<filter id="fblur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+<filter id="fgrain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter>
+<clipPath id="fclip"><rect x="1" y="1" width="1198" height="328" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#fclip)">
+<rect width="1200" height="330" fill="url(#fb)"/>
+<g filter="url(#fblur)">
+<circle cx="150" cy="40" r="220" fill="#76b900" opacity="0.3"/>
+<circle cx="1050" cy="300" r="260" fill="#3987e5" opacity="0.3"/>
+<circle cx="650" cy="160" r="200" fill="#8b5cf6" opacity="0.2"/>
+</g>
+<rect width="1200" height="330" filter="url(#fgrain)" opacity="0.06"/>
+</g>
+<rect x="1" y="1" width="1198" height="328" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.14"/>
+<rect x="20" y="136" width="772" height="180" rx="14" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/><line x1="34" x2="778" y1="136.5" y2="136.5" stroke="#ffffff" stroke-opacity="0.18"/>
+<rect x="804" y="136" width="376" height="180" rx="14" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/><line x1="818" x2="1166" y1="136.5" y2="136.5" stroke="#ffffff" stroke-opacity="0.18"/>
+<rect x="20" y="28" width="183" height="92" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/><line x1="32" x2="191" y1="28.5" y2="28.5" stroke="#ffffff" stroke-opacity="0.18"/>
+<text x="36" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#f0f6fc">72</text>
+<text x="36" y="94" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">commits</text>
+<text x="36" y="110" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">past year · all repos</text>
+<rect x="215" y="28" width="183" height="92" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/><line x1="227" x2="386" y1="28.5" y2="28.5" stroke="#ffffff" stroke-opacity="0.18"/>
+<text x="231" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#f0f6fc">5</text>
+<text x="231" y="94" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">active repos</text>
+<text x="231" y="110" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">committed to · past year</text>
+<rect x="410" y="28" width="183" height="92" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/><line x1="422" x2="581" y1="28.5" y2="28.5" stroke="#ffffff" stroke-opacity="0.18"/>
+<text x="426" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#f0f6fc">2</text>
+<text x="426" y="94" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">day streak</text>
+<text x="426" y="110" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">current · longest 3</text>
+<rect x="605" y="28" width="183" height="92" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/><line x1="617" x2="776" y1="28.5" y2="28.5" stroke="#ffffff" stroke-opacity="0.18"/>
+<text x="621" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#f0f6fc">19</text>
+<text x="621" y="94" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">pull requests</text>
+<text x="621" y="110" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">all time</text>
+<rect x="800" y="28" width="183" height="92" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/><line x1="812" x2="971" y1="28.5" y2="28.5" stroke="#ffffff" stroke-opacity="0.18"/>
+<text x="816" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#f0f6fc">18</text>
+<text x="816" y="94" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">repositories</text>
+<text x="816" y="110" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">7 public · 11 private</text>
+<rect x="995" y="28" width="183" height="92" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/><line x1="1007" x2="1166" y1="28.5" y2="28.5" stroke="#ffffff" stroke-opacity="0.18"/>
+<text x="1011" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#f0f6fc">19</text>
+<text x="1011" y="94" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">stars</text>
+<text x="1011" y="110" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">4 followers</text>
+<text x="32" y="156" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f0f6fc">Activity per month · all repos</text>
+<rect x="625" y="145" width="12" height="12" rx="3" fill="#3987e5"/>
+<text x="643" y="156" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#c9d1d9">pull requests</text>
+<rect x="532" y="145" width="12" height="12" rx="3" fill="#76b900"/>
+<text x="550" y="156" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#c9d1d9">commits</text>
+<line x1="60" x2="772" y1="286.0" y2="286.0" stroke="#8b949e" stroke-width="1"/>
+<text x="52" y="290.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0</text>
+<line x1="60" x2="772" y1="236.0" y2="236.0" stroke="#21262d" stroke-width="1"/>
+<text x="52" y="240.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">20</text>
+<line x1="60" x2="772" y1="186.0" y2="186.0" stroke="#21262d" stroke-width="1"/>
+<text x="52" y="190.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">40</text>
+<path d="M78.3 286 V277.5 Q78.3 273.5 82.3 273.5 H92.3 Q96.3 273.5 96.3 277.5 V286 Z" fill="#76b900"><title>2025-12 · commits: 5</title></path>
+<text x="87.3" y="268.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">5</text>
+<text x="97.3" y="304" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Dec</text>
+<path d="M137.0 286 V284.8 Q137.0 283.5 138.2 283.5 H153.8 Q155.0 283.5 155.0 284.8 V286 Z" fill="#76b900"><title>2026-01 · commits: 1</title></path>
+<text x="146.0" y="278.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">1</text>
+<text x="156.0" y="304" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Jan</text>
+<text x="214.7" y="304" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Feb</text>
+<path d="M254.3 286 V284.8 Q254.3 283.5 255.6 283.5 H271.1 Q272.3 283.5 272.3 284.8 V286 Z" fill="#76b900"><title>2026-03 · commits: 1</title></path>
+<text x="263.3" y="278.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">1</text>
+<text x="273.3" y="304" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Mar</text>
+<path d="M313.0 286 V283.5 Q313.0 281.0 315.5 281.0 H328.5 Q331.0 281.0 331.0 283.5 V286 Z" fill="#76b900"><title>2026-04 · commits: 2</title></path>
+<text x="322.0" y="276.0" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">2</text>
+<text x="332.0" y="304" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Apr</text>
+<path d="M371.7 286 V222.5 Q371.7 218.5 375.7 218.5 H385.7 Q389.7 218.5 389.7 222.5 V286 Z" fill="#76b900"><title>2026-05 · commits: 27</title></path>
+<text x="380.7" y="213.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">27</text>
+<text x="390.7" y="304" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">May</text>
+<path d="M430.3 286 V280.0 Q430.3 276.0 434.3 276.0 H444.3 Q448.3 276.0 448.3 280.0 V286 Z" fill="#76b900"><title>2026-06 · commits: 4</title></path>
+<text x="439.3" y="271.0" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">4</text>
+<text x="449.3" y="304" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Jun</text>
+<text x="508.0" y="304" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Jul</text>
+<text x="566.7" y="304" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Aug</text>
+<path d="M626.3 286 V283.5 Q626.3 281.0 628.8 281.0 H641.8 Q644.3 281.0 644.3 283.5 V286 Z" fill="#3987e5"><title>2026-09 · pull requests: 2</title></path>
+<text x="635.3" y="276.0" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">2</text>
+<text x="625.3" y="304" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Sep</text>
+<path d="M685.0 286 V282.2 Q685.0 278.5 688.8 278.5 H699.2 Q703.0 278.5 703.0 282.2 V286 Z" fill="#3987e5"><title>2026-10 · pull requests: 3</title></path>
+<text x="694.0" y="273.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">3</text>
+<text x="684.0" y="304" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Oct</text>
+<path d="M723.7 286 V210.0 Q723.7 206.0 727.7 206.0 H737.7 Q741.7 206.0 741.7 210.0 V286 Z" fill="#76b900"><title>2026-11 · commits: 32</title></path>
+<text x="732.7" y="201.0" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">32</text>
+<path d="M743.7 286 V257.5 Q743.7 253.5 747.7 253.5 H757.7 Q761.7 253.5 761.7 257.5 V286 Z" fill="#3987e5"><title>2026-11 · pull requests: 13</title></path>
+<text x="752.7" y="248.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">13</text>
+<text x="742.7" y="304" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Nov</text>
+<text x="820" y="158" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f0f6fc">Top languages</text>
+<text x="1168" y="158" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">all repos · by code size</text>
+<rect x="820.0" y="172" width="325.4" height="10" rx="3" fill="#3572A5"/>
+<rect x="1147.4" y="172" width="9.0" height="10" rx="3" fill="#f34b7d"/>
+<rect x="1158.4" y="172" width="2.3" height="10" rx="3" fill="#555555"/>
+<rect x="1162.7" y="172" width="1.0" height="10" rx="3" fill="#e34c26"/>
+<rect x="1164.6" y="172" width="1.0" height="10" rx="3" fill="#89e051"/>
+<rect x="1165.4" y="172" width="1.0" height="10" rx="3" fill="#fedf5b"/>
+<circle cx="826.0" cy="208" r="5" fill="#3572A5"/>
+<text x="838.0" y="212" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">Python</text>
+<text x="978.0" y="212" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8b949e">94.1%</text>
+<circle cx="1000.0" cy="208" r="5" fill="#f34b7d"/>
+<text x="1012.0" y="212" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">C++</text>
+<text x="1152.0" y="212" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8b949e">3.2%</text>
+<circle cx="826.0" cy="238" r="5" fill="#555555"/>
+<text x="838.0" y="242" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">C</text>
+<text x="978.0" y="242" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8b949e">1.2%</text>
+<circle cx="1000.0" cy="238" r="5" fill="#e34c26"/>
+<text x="1012.0" y="242" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">HTML</text>
+<text x="1152.0" y="242" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8b949e">0.5%</text>
+<circle cx="826.0" cy="268" r="5" fill="#89e051"/>
+<text x="838.0" y="272" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">Shell</text>
+<text x="978.0" y="272" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8b949e">0.2%</text>
+<circle cx="1000.0" cy="268" r="5" fill="#fedf5b"/>
+<text x="1012.0" y="272" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">Cython</text>
+<text x="1152.0" y="272" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8b949e">0.2%</text>
+</svg>

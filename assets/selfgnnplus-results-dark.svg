@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-label="SelfGNNplus beats SelfGNN and 18 other baselines on HR@10 and NDCG@10 on Amazon, Gowalla, MovieLens and Yelp">
+<rect x="1" y="1" width="1198" height="478" rx="16" fill="#0d1117" stroke="#30363d"/>
+<text x="40" y="52" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#f0f6fc">SelfGNNplus vs. 19 baselines</text>
+<text x="40" y="80" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8b949e">Top-10 recommendation, 4 benchmark datasets · higher is better · +% = gain over SelfGNN</text>
+<rect x="690" y="40" width="12" height="12" rx="3" fill="#76b900"/>
+<text x="708" y="51" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">SelfGNNplus</text>
+<rect x="835" y="40" width="12" height="12" rx="3" fill="#8b949e"/>
+<text x="853" y="51" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">SelfGNN</text>
+<rect x="944" y="40" width="12" height="12" rx="3" fill="#484f58"/>
+<text x="962" y="51" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">Best other baseline</text>
+<text x="40" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">Hit Rate@10</text>
+<line x1="74" x2="580" y1="410.0" y2="410.0" stroke="#21262d" stroke-width="1"/>
+<text x="66" y="414.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">0.0</text>
+<line x1="74" x2="580" y1="340.0" y2="340.0" stroke="#21262d" stroke-width="1"/>
+<text x="66" y="344.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">0.2</text>
+<line x1="74" x2="580" y1="270.0" y2="270.0" stroke="#21262d" stroke-width="1"/>
+<text x="66" y="274.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">0.4</text>
+<line x1="74" x2="580" y1="200.0" y2="200.0" stroke="#21262d" stroke-width="1"/>
+<text x="66" y="204.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">0.6</text>
+<line x1="74" x2="580" y1="130.0" y2="130.0" stroke="#21262d" stroke-width="1"/>
+<text x="66" y="134.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">0.8</text>
+<path d="M92.5 410.0 V276.4 Q92.5 272.4 96.5 272.4 H120.5 Q124.5 272.4 124.5 276.4 V410.0 Z" fill="#76b900"><title>Amazon · SelfGNNplus: 0.393</title></path>
+<text x="108.5" y="266.4" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#f0f6fc">0.393</text>
+<path d="M126.5 410.0 V277.1 Q126.5 273.1 130.5 273.1 H154.5 Q158.5 273.1 158.5 277.1 V410.0 Z" fill="#8b949e"><title>Amazon · SelfGNN: 0.391</title></path>
+<text x="142.5" y="267.1" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.391</text>
+<path d="M160.5 410.0 V285.2 Q160.5 281.2 164.5 281.2 H188.5 Q192.5 281.2 192.5 285.2 V410.0 Z" fill="#484f58"><title>Amazon · CoSeRec: 0.368</title></path>
+<text x="176.5" y="275.2" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.368</text>
+<text x="142.5" y="434" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">Amazon</text>
+<text x="142.5" y="454" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#f0f6fc">+0.5%</text>
+<path d="M217.5 410.0 V177.7 Q217.5 173.7 221.5 173.7 H245.5 Q249.5 173.7 249.5 177.7 V410.0 Z" fill="#76b900"><title>Gowalla · SelfGNNplus: 0.675</title></path>
+<text x="233.5" y="167.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#f0f6fc">0.675</text>
+<path d="M251.5 410.0 V191.0 Q251.5 187.0 255.5 187.0 H279.5 Q283.5 187.0 283.5 191.0 V410.0 Z" fill="#8b949e"><title>Gowalla · SelfGNN: 0.637</title></path>
+<text x="267.5" y="181.0" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.637</text>
+<path d="M285.5 410.0 V201.9 Q285.5 197.9 289.5 197.9 H313.5 Q317.5 197.9 317.5 201.9 V410.0 Z" fill="#484f58"><title>Gowalla · NCF: 0.606</title></path>
+<text x="301.5" y="191.9" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.606</text>
+<text x="267.5" y="434" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">Gowalla</text>
+<text x="267.5" y="454" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#f0f6fc">+6.0%</text>
+<path d="M342.5 410.0 V324.1 Q342.5 320.1 346.5 320.1 H370.5 Q374.5 320.1 374.5 324.1 V410.0 Z" fill="#76b900"><title>MovieLens · SelfGNNplus: 0.257</title></path>
+<text x="358.5" y="314.1" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#f0f6fc">0.257</text>
+<path d="M376.5 410.0 V330.4 Q376.5 326.4 380.5 326.4 H404.5 Q408.5 326.4 408.5 330.4 V410.0 Z" fill="#8b949e"><title>MovieLens · SelfGNN: 0.239</title></path>
+<text x="392.5" y="320.4" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.239</text>
+<path d="M410.5 410.0 V331.1 Q410.5 327.1 414.5 327.1 H438.5 Q442.5 327.1 442.5 331.1 V410.0 Z" fill="#484f58"><title>MovieLens · SURGE: 0.237</title></path>
+<text x="426.5" y="321.1" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.237</text>
+<text x="392.5" y="434" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">MovieLens</text>
+<text x="392.5" y="454" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#f0f6fc">+7.5%</text>
+<path d="M467.5 410.0 V280.6 Q467.5 276.6 471.5 276.6 H495.5 Q499.5 276.6 499.5 280.6 V410.0 Z" fill="#76b900"><title>Yelp · SelfGNNplus: 0.381</title></path>
+<text x="483.5" y="270.6" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#f0f6fc">0.381</text>
+<path d="M501.5 410.0 V286.2 Q501.5 282.2 505.5 282.2 H529.5 Q533.5 282.2 533.5 286.2 V410.0 Z" fill="#8b949e"><title>Yelp · SelfGNN: 0.365</title></path>
+<text x="517.5" y="276.2" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.365</text>
+<path d="M535.5 410.0 V292.9 Q535.5 288.9 539.5 288.9 H563.5 Q567.5 288.9 567.5 292.9 V410.0 Z" fill="#484f58"><title>Yelp · LightGCN: 0.346</title></path>
+<text x="551.5" y="282.9" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.346</text>
+<text x="517.5" y="434" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">Yelp</text>
+<text x="517.5" y="454" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#f0f6fc">+4.4%</text>
+<line x1="74" x2="580" y1="410" y2="410" stroke="#8b949e" stroke-width="1"/>
+<text x="620" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">NDCG@10</text>
+<line x1="654" x2="1160" y1="410.0" y2="410.0" stroke="#21262d" stroke-width="1"/>
+<text x="646" y="414.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">0.0</text>
+<line x1="654" x2="1160" y1="354.0" y2="354.0" stroke="#21262d" stroke-width="1"/>
+<text x="646" y="358.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">0.1</text>
+<line x1="654" x2="1160" y1="298.0" y2="298.0" stroke="#21262d" stroke-width="1"/>
+<text x="646" y="302.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">0.2</text>
+<line x1="654" x2="1160" y1="242.0" y2="242.0" stroke="#21262d" stroke-width="1"/>
+<text x="646" y="246.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">0.3</text>
+<line x1="654" x2="1160" y1="186.0" y2="186.0" stroke="#21262d" stroke-width="1"/>
+<text x="646" y="190.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">0.4</text>
+<line x1="654" x2="1160" y1="130.0" y2="130.0" stroke="#21262d" stroke-width="1"/>
+<text x="646" y="134.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">0.5</text>
+<path d="M672.5 410.0 V277.4 Q672.5 273.4 676.5 273.4 H700.5 Q704.5 273.4 704.5 277.4 V410.0 Z" fill="#76b900"><title>Amazon · SelfGNNplus: 0.244</title></path>
+<text x="688.5" y="267.4" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#f0f6fc">0.244</text>
+<path d="M706.5 410.0 V279.6 Q706.5 275.6 710.5 275.6 H734.5 Q738.5 275.6 738.5 279.6 V410.0 Z" fill="#8b949e"><title>Amazon · SelfGNN: 0.240</title></path>
+<text x="722.5" y="269.6" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.240</text>
+<path d="M740.5 410.0 V285.2 Q740.5 281.2 744.5 281.2 H768.5 Q772.5 281.2 772.5 285.2 V410.0 Z" fill="#484f58"><title>Amazon · CoSeRec: 0.230</title></path>
+<text x="756.5" y="275.2" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.230</text>
+<text x="722.5" y="434" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">Amazon</text>
+<text x="722.5" y="454" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#f0f6fc">+1.7%</text>
+<path d="M797.5 410.0 V153.6 Q797.5 149.6 801.5 149.6 H825.5 Q829.5 149.6 829.5 153.6 V410.0 Z" fill="#76b900"><title>Gowalla · SelfGNNplus: 0.465</title></path>
+<text x="813.5" y="143.6" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#f0f6fc">0.465</text>
+<path d="M831.5 410.0 V169.3 Q831.5 165.3 835.5 165.3 H859.5 Q863.5 165.3 863.5 169.3 V410.0 Z" fill="#8b949e"><title>Gowalla · SelfGNN: 0.437</title></path>
+<text x="847.5" y="159.3" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.437</text>
+<path d="M865.5 410.0 V179.9 Q865.5 175.9 869.5 175.9 H893.5 Q897.5 175.9 897.5 179.9 V410.0 Z" fill="#484f58"><title>Gowalla · NCF: 0.418</title></path>
+<text x="881.5" y="169.9" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.418</text>
+<text x="847.5" y="434" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">Gowalla</text>
+<text x="847.5" y="454" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#f0f6fc">+6.4%</text>
+<path d="M922.5 410.0 V333.9 Q922.5 329.9 926.5 329.9 H950.5 Q954.5 329.9 954.5 333.9 V410.0 Z" fill="#76b900"><title>MovieLens · SelfGNNplus: 0.143</title></path>
+<text x="938.5" y="323.9" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#f0f6fc">0.143</text>
+<path d="M956.5 410.0 V342.3 Q956.5 338.3 960.5 338.3 H984.5 Q988.5 338.3 988.5 342.3 V410.0 Z" fill="#8b949e"><title>MovieLens · SelfGNN: 0.128</title></path>
+<text x="972.5" y="332.3" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.128</text>
+<path d="M990.5 410.0 V343.4 Q990.5 339.4 994.5 339.4 H1018.5 Q1022.5 339.4 1022.5 343.4 V410.0 Z" fill="#484f58"><title>MovieLens · ICLRec: 0.126</title></path>
+<text x="1006.5" y="333.4" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.126</text>
+<text x="972.5" y="434" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">MovieLens</text>
+<text x="972.5" y="454" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#f0f6fc">+11.7%</text>
+<path d="M1047.5 410.0 V295.3 Q1047.5 291.3 1051.5 291.3 H1075.5 Q1079.5 291.3 1079.5 295.3 V410.0 Z" fill="#76b900"><title>Yelp · SelfGNNplus: 0.212</title></path>
+<text x="1063.5" y="285.3" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#f0f6fc">0.212</text>
+<path d="M1081.5 410.0 V301.4 Q1081.5 297.4 1085.5 297.4 H1109.5 Q1113.5 297.4 1113.5 301.4 V410.0 Z" fill="#8b949e"><title>Yelp · SelfGNN: 0.201</title></path>
+<text x="1097.5" y="291.4" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.201</text>
+<path d="M1115.5 410.0 V308.2 Q1115.5 304.2 1119.5 304.2 H1143.5 Q1147.5 304.2 1147.5 308.2 V410.0 Z" fill="#484f58"><title>Yelp · LightGCN: 0.189</title></path>
+<text x="1131.5" y="298.2" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">0.189</text>
+<text x="1097.5" y="434" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">Yelp</text>
+<text x="1097.5" y="454" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#f0f6fc">+5.5%</text>
+<line x1="654" x2="1160" y1="410" y2="410" stroke="#8b949e" stroke-width="1"/>
+</svg>
