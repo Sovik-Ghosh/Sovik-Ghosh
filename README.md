@@ -21,6 +21,8 @@ I build **computer vision systems that run in real time** — from multi-view ge
 - 🤖 **Next:** real-time vision-language-action models on edge hardware
 
 <!-- NOW:START -->
+- 🔨 [**website**](https://github.com/Sovik-Ghosh/website) · last push 2026-11-17
+
 <sub>Recent public releases and pushes appear here automatically.</sub>
 <!-- NOW:END -->
 
