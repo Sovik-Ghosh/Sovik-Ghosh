@@ -16,7 +16,7 @@ I build **computer vision systems that run in real time** — from multi-view ge
 ## 🔨 Now
 
 - ⚡ **CUDA kernels:** writing and benchmarking GEMM and other kernels against the measured limits of an RTX 5060 Ti (Blackwell, `sm_120`)
-- 🧊 **SFM → C++/CUDA:** GPU data loading and calibration done; triangulation and bundle adjustment next
+- 🧊 **Epipole 1.3** (Structure-from-Motion in C++/CUDA) is out: 3.3× faster than COLMAP's CUDA build on the bunny, at 0.17° vs 0.28°; Python API, COLMAP / 3DGS export
 - 🌙 **Low-light detection:** data-centric label improvement for a YOLO detector on ExDark (Kaggle)
 - 🤖 **Next:** real-time vision-language-action models on edge hardware
 
@@ -32,7 +32,7 @@ I build **computer vision systems that run in real time** — from multi-view ge
 
 | Project | What it does | |
 |---|---|---|
-| 🧊 [**SFM**](https://github.com/Sovik-Ghosh/SFM) | Incremental Structure-from-Motion — being rebuilt as a C++/CUDA runtime (FAST/ORB, F-RANSAC, PnP, triangulation, Schur-complement BA) | ![stars](https://img.shields.io/github/stars/Sovik-Ghosh/SFM?style=flat-square&color=76B900&label=%E2%98%85) |
+| 🧊 [**Epipole**](https://github.com/Sovik-Ghosh/sfm-cuda) | Structure-from-Motion in C++17 and CUDA, every stage on the GPU or the CPU: SIFT, tensor-core matching, PnP, Schur-complement BA, live viewer, Python API. Bunny: 0.77 s and 0.17° vs COLMAP 2.5 s and 0.28° · [page](https://sovik-ghosh.github.io/sfm-cuda/) | ![stars](https://img.shields.io/github/stars/Sovik-Ghosh/sfm-cuda?style=flat-square&color=76B900&label=%E2%98%85) |
 | 🕸️ [**SelfGNNplus**](https://github.com/Sovik-Ghosh/SelfGNNplus) | Self-supervised GNN recommender with interval-level temporal dependencies — beats SelfGNN + 18 baselines on 4 datasets (up to **+7.5% HR@10**, **+11.7% NDCG@10**) | ![stars](https://img.shields.io/github/stars/Sovik-Ghosh/SelfGNNplus?style=flat-square&color=76B900&label=%E2%98%85) |
 | 🏋️ [**GymJam**](https://github.com/Sovik-Ghosh/GymJam-AI-assistant-using-mediapipe) | Real-time workout assistant: MediaPipe pose estimation for form feedback | ![stars](https://img.shields.io/github/stars/Sovik-Ghosh/GymJam-AI-assistant-using-mediapipe?style=flat-square&color=76B900&label=%E2%98%85) |
 | 🎬 [**Movera**](https://github.com/Sovik-Ghosh/Movera-movie-recommendation-using-RASA) | Conversational movie recommender built with Rasa | ![stars](https://img.shields.io/github/stars/Sovik-Ghosh/Movera-movie-recommendation-using-RASA?style=flat-square&color=76B900&label=%E2%98%85) |
