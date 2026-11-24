@@ -21,8 +21,8 @@ I build **computer vision systems that run in real time** — from multi-view ge
 - 🤖 **Next:** real-time vision-language-action models on edge hardware
 
 <!-- NOW:START -->
-- 🏷️ **Latest release:** [sfm-cuda v1.1.0](https://github.com/Sovik-Ghosh/sfm-cuda/releases/tag/v1.1.0) · 2026-11-22
-- 🔨 [**sfm-cuda**](https://github.com/Sovik-Ghosh/sfm-cuda) · last push 2026-11-22 — Incremental Structure-from-Motion in C++17, on the CPU or with CUDA: SIFT/ORB features, ma…
+- 🏷️ **Latest release:** [sfm-cuda v1.4.0](https://github.com/Sovik-Ghosh/sfm-cuda/releases/tag/v1.4.0) · 2026-11-23
+- 🔨 [**sfm-cuda**](https://github.com/Sovik-Ghosh/sfm-cuda) · last push 2026-11-23 — Epipole: Structure-from-Motion in C++17 and CUDA, on the CPU or any RTX GPU
 - 🔨 [**website**](https://github.com/Sovik-Ghosh/website) · last push 2026-11-17
 
 <sub>Recent public releases and pushes appear here automatically.</sub>
